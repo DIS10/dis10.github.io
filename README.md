@@ -2,7 +2,6 @@
 Created by Anton Quiambao, Lawrence Dizon, Raven Capuno, KM Liscano & Rodel Villarosa
 
 **HTML**, **CSS** and **Javascript** were used in this project.
-
 It is hosted on Github Pages, a free site hosting service. 
 
 The site can be accessed at **https://dis10.github.io/**
