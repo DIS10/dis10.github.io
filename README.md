@@ -43,7 +43,7 @@ Example:
 **Set 1** is 1,2,3,4
 **Set 2** is 3,4,6,7,8
 
-The Javascript function will evaluate to **1,2,3,4,6,7,8** since it is the union of the 2 sets
+The Javascript function will evaluate to **1,2,3,4,6,7,8** since they are the combined elements of Set 1 and Set 2.
 
 ### Set Difference
 In the set difference, the user is asked to input two sets of data in their respective text fields. 
