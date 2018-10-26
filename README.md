@@ -21,7 +21,7 @@ The chosen topics in Discrete Structures 1 to be solved are
 ### Intersection of sets
 In the intersection of sets, the user is asked to input two sets of data in their respective text fields. 
 
-After inputting data, the user must click on the calculate button to execute the Javascript function **compute()**.
+After inputting data, the user must click on the calculate button to execute the Javascript function **comput()**.
 
 The result is displayed on the text field below the buttons. 
 
@@ -35,7 +35,7 @@ The Javascript function will evaluate to **3,4** since they were the only inters
 ### Union of sets
 In the union of sets, the user is asked to input two sets of data in their respective text fields. 
 
-After inputting data, the user must click on the calculate button to execute the Javascript function **compute2()**. 
+After inputting data, the user must click on the calculate button to execute the Javascript function **comput2()**. 
 
 The result is displayed on the text field below the buttons. 
 
@@ -48,7 +48,7 @@ The Javascript function will evaluate to **1,2,3,4,6,7,8** since they are the co
 ### Set Difference
 In the set difference, the user is asked to input two sets of data in their respective text fields. 
 
-After inputting data, the user must click on the calculate button to execute the Javascript function **compute3()**.
+After inputting data, the user must click on the calculate button to execute the Javascript function **comput3()**.
 
 The result is displayed on the text field below the buttons. 
 
@@ -61,7 +61,7 @@ The Javascript function will evaluate to **1,2** since 3,4, the two set's inters
 ### Symmetric Difference
 In the symmetric difference, the user is asked to input two sets of data in their respective text fields. 
 
-After inputting data, the user must click on the calculate button to execute the Javascript function **compute4()**.
+After inputting data, the user must click on the calculate button to execute the Javascript function **comput4()**.
 
 The result is displayed on the text field below the buttons. 
 
@@ -75,7 +75,7 @@ The Javascript function will evaluate to **1,2,6,7,8** since 3,4, the two set's 
 ### Subsets
 In the subsets, the user is asked to input two sets of data in their respective text fields. 
 
-After inputting data, the user must click on the calculate button to execute the Javascript function **compute5()**.
+After inputting data, the user must click on the calculate button to execute the Javascript function **comput5()**.
 
 The result is displayed on the text field below the buttons. 
 
