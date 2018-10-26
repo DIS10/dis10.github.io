@@ -75,7 +75,7 @@ The Javascript function will evaluate to **1,2,6,7,8** since 3,4, the two set's 
 ### Subsets
 In the subsets, the user is asked to input two sets of data in their respective text fields. 
 
-After inputting data, the user must click on the calculate button to execute the Javascript function **compute4()**.
+After inputting data, the user must click on the calculate button to execute the Javascript function **compute5()**.
 
 The result is displayed on the text field below the buttons. 
 
@@ -84,8 +84,4 @@ Example:
 **Set 2** is 3,4,6,7,8
 
 The Javascript function will evaluate to **is not a subset** since Set 2 has elements missing from Set 1.
-
-
-
-
 
